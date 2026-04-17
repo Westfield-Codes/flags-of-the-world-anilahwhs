@@ -7,7 +7,7 @@ a {
     text-align:center;
 }
 .flag {
-     width:600px;
+    width:600px;
     height:400px;
     margin:auto;
     display:block;
@@ -18,14 +18,18 @@ a {
     float:left;
 }
 .green{
-    background:#008C45;
+    background:#00853F;
 }
-.white{
-    background:#F4F9FF;
+.yellow{
+    background:#FDEF42;
 }
 .red{
-    background:#CD212A;
+    background:#E31B23;
 }
 body {
     text-align:center;
+}
+img {
+    height:180px;
+    padding-top:60%
 }
