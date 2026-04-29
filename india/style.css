@@ -1,34 +1,33 @@
 .header {
     text-align:center;
 }
-
 a {
     display:block;
     width:100%;
     text-align:center;
 }
-
 .flag {
     width:600px;
     height:400px;
     margin:auto;
+    display:block;
 }
-
 .stripe {
     width:100%;
     height: 200px;
 
 }
+.orange{
+    background:#FF671F;
+}
 .white{
-    background-color:white;
+    background:#FFFFFF;
+    text-align:center;
 }
-.blue{
-    background-color:blue;
+.green{
+    background:#046A38;
 }
-.rectangle{
-    height:400px;
-    width:600px;
-}
-.header{
-    background-color:LightSkyBlue;
+
+img {
+    width:22%;
 }
