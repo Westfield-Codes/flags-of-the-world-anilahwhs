@@ -8,10 +8,11 @@ a {
     text-align:center;
 }
 
-.flag {
-    width:900px;
-    height:600px;
-    margin:auto;
+.flag{
+    width: 900px;
+    height: 600px;
+    margin:auto; 
+    box-sizing :border-box;
 }
 
 .stripe {
@@ -19,13 +20,24 @@ a {
     height: 200px;
 
 }
-
-.white{
-    background:#fff;
-}
-.red{
-    background:red;
-}
 .blue{
-    background:#00b6dd;
+    background:#5D97B0;
 }
+.green {
+    background:#1D9533;
+}
+.flag{
+    border-color: #5D97B0 white #1D9533 white;
+    border-width:300px 0 300px 500px;
+    border-style:solid;
+}
+p{
+    color:red;
+    font-size :210px;
+    position:relative;
+    right:80%;
+    margin-top:-200px;
+    right:100%;
+}
+
+  
